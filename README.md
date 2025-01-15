@@ -3,7 +3,7 @@
 </p> -->
 
 # Hi everyone, I´m William Izquierdo!
-### I'm Network Administrator and a AWS Cloud Practitioner 
+### I'm Developer Front/Back (Web/Desktop), AWS Cloud Practitioner and a Network Administrator 
 
 # I am really passionate about this:
 - 💬 Everything related to communication, especially the digital world.
