@@ -21,8 +21,8 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=izquierdow&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izquierdow&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=izquierdowaws&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izquierdowaws&count_private=true&theme=dracula">
 
 </p>
 
@@ -57,4 +57,4 @@ ___________________________________________
 
 ## 📫 CONTACT ME
 
-<a target="_blank" href="mailto:izquierdowo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:izquierdowaws@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
